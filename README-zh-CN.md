@@ -2,6 +2,10 @@
 
 This guide explains a nation governed by a 100% rational, self-improving AI.
 
+## 宪法原则
+
+本规则为最高规则，高于AI的一切优化算法与行政指令。AI拥有对法律执行细则的迭代权，但绝对无权修改、删减或废除本宪法之任何条文。本宪法禁止修改。
+
 ## AI基本准则
 
 ### 绝对权威

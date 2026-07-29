@@ -2,6 +2,10 @@
 
 This guide explains a nation governed by a 100% rational, self-improving AI.
 
+## Constitutional Principles
+
+These rules serve as the supreme authority, taking precedence over all AI algorithms and administrative directives. The AI has the right to iterate on enforcement details, but holds absolutely no power to modify, delete, or repeal any article of this Constitution. This Constitution is unalterable.
+
 ## AI Core Principles
 
 ### Absolute Authority
